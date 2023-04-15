@@ -14,6 +14,24 @@
 		85B47FE329EACC720015E084 /* simple_swiftuiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B47FE229EACC720015E084 /* simple_swiftuiTests.swift */; };
 		85B47FED29EACC720015E084 /* simple_swiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B47FEC29EACC720015E084 /* simple_swiftuiUITests.swift */; };
 		85B47FEF29EACC720015E084 /* simple_swiftuiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B47FEE29EACC720015E084 /* simple_swiftuiUITestsLaunchTests.swift */; };
+		85B47FFC29EAD7910015E084 /* StartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B47FFB29EAD7910015E084 /* StartedView.swift */; };
+		85B47FFD29EAD7910015E084 /* StartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B47FFB29EAD7910015E084 /* StartedView.swift */; };
+		85B47FFE29EAD7910015E084 /* StartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B47FFB29EAD7910015E084 /* StartedView.swift */; };
+		85B4800329EAE1370015E084 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B47FFF29EAE1370015E084 /* Poppins-Medium.ttf */; };
+		85B4800429EAE1370015E084 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B47FFF29EAE1370015E084 /* Poppins-Medium.ttf */; };
+		85B4800529EAE1370015E084 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B47FFF29EAE1370015E084 /* Poppins-Medium.ttf */; };
+		85B4800629EAE1370015E084 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800029EAE1370015E084 /* Poppins-Bold.ttf */; };
+		85B4800729EAE1370015E084 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800029EAE1370015E084 /* Poppins-Bold.ttf */; };
+		85B4800829EAE1370015E084 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800029EAE1370015E084 /* Poppins-Bold.ttf */; };
+		85B4800929EAE1370015E084 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800129EAE1370015E084 /* Poppins-SemiBold.ttf */; };
+		85B4800A29EAE1370015E084 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800129EAE1370015E084 /* Poppins-SemiBold.ttf */; };
+		85B4800B29EAE1370015E084 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800129EAE1370015E084 /* Poppins-SemiBold.ttf */; };
+		85B4800C29EAE1370015E084 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800229EAE1370015E084 /* Poppins-Regular.ttf */; };
+		85B4800D29EAE1370015E084 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800229EAE1370015E084 /* Poppins-Regular.ttf */; };
+		85B4800E29EAE1380015E084 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85B4800229EAE1370015E084 /* Poppins-Regular.ttf */; };
+		85B4801129EAEC130015E084 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B4801029EAEC130015E084 /* Home.swift */; };
+		85B4801229EAEC130015E084 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B4801029EAEC130015E084 /* Home.swift */; };
+		85B4801329EAEC130015E084 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B4801029EAEC130015E084 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,13 @@
 		85B47FE829EACC720015E084 /* simple-swiftuiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "simple-swiftuiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85B47FEC29EACC720015E084 /* simple_swiftuiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simple_swiftuiUITests.swift; sourceTree = "<group>"; };
 		85B47FEE29EACC720015E084 /* simple_swiftuiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simple_swiftuiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		85B47FFB29EAD7910015E084 /* StartedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartedView.swift; sourceTree = "<group>"; };
+		85B47FFF29EAE1370015E084 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		85B4800029EAE1370015E084 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		85B4800129EAE1370015E084 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		85B4800229EAE1370015E084 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		85B4800F29EAE1A70015E084 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		85B4801029EAEC130015E084 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +119,15 @@
 		85B47FD029EACC700015E084 /* simple-swiftui */ = {
 			isa = PBXGroup;
 			children = (
+				85B4800F29EAE1A70015E084 /* Info.plist */,
+				85B4800029EAE1370015E084 /* Poppins-Bold.ttf */,
+				85B47FFF29EAE1370015E084 /* Poppins-Medium.ttf */,
+				85B4800229EAE1370015E084 /* Poppins-Regular.ttf */,
+				85B4800129EAE1370015E084 /* Poppins-SemiBold.ttf */,
 				85B47FD129EACC700015E084 /* simple_swiftuiApp.swift */,
 				85B47FD329EACC700015E084 /* ContentView.swift */,
+				85B47FFB29EAD7910015E084 /* StartedView.swift */,
+				85B4801029EAEC130015E084 /* Home.swift */,
 				85B47FD529EACC720015E084 /* Assets.xcassets */,
 				85B47FD729EACC720015E084 /* Preview Content */,
 			);
@@ -231,8 +263,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85B4800929EAE1370015E084 /* Poppins-SemiBold.ttf in Resources */,
+				85B4800329EAE1370015E084 /* Poppins-Medium.ttf in Resources */,
 				85B47FD929EACC720015E084 /* Preview Assets.xcassets in Resources */,
+				85B4800C29EAE1370015E084 /* Poppins-Regular.ttf in Resources */,
 				85B47FD629EACC720015E084 /* Assets.xcassets in Resources */,
+				85B4800629EAE1370015E084 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +276,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85B4800A29EAE1370015E084 /* Poppins-SemiBold.ttf in Resources */,
+				85B4800429EAE1370015E084 /* Poppins-Medium.ttf in Resources */,
+				85B4800729EAE1370015E084 /* Poppins-Bold.ttf in Resources */,
+				85B4800D29EAE1370015E084 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +287,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85B4800B29EAE1370015E084 /* Poppins-SemiBold.ttf in Resources */,
+				85B4800529EAE1370015E084 /* Poppins-Medium.ttf in Resources */,
+				85B4800829EAE1370015E084 /* Poppins-Bold.ttf in Resources */,
+				85B4800E29EAE1380015E084 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +303,8 @@
 			files = (
 				85B47FD429EACC700015E084 /* ContentView.swift in Sources */,
 				85B47FD229EACC700015E084 /* simple_swiftuiApp.swift in Sources */,
+				85B4801129EAEC130015E084 /* Home.swift in Sources */,
+				85B47FFC29EAD7910015E084 /* StartedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +312,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85B47FFD29EAD7910015E084 /* StartedView.swift in Sources */,
+				85B4801229EAEC130015E084 /* Home.swift in Sources */,
 				85B47FE329EACC720015E084 /* simple_swiftuiTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,6 +324,8 @@
 			files = (
 				85B47FEF29EACC720015E084 /* simple_swiftuiUITestsLaunchTests.swift in Sources */,
 				85B47FED29EACC720015E084 /* simple_swiftuiUITests.swift in Sources */,
+				85B4801329EAEC130015E084 /* Home.swift in Sources */,
+				85B47FFE29EAD7910015E084 /* StartedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +470,7 @@
 				DEVELOPMENT_TEAM = V4597PNUQD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "simple-swiftui/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +500,7 @@
 				DEVELOPMENT_TEAM = V4597PNUQD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "simple-swiftui/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
