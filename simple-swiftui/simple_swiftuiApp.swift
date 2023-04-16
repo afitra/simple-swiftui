@@ -11,7 +11,8 @@ import SwiftUI
 struct simple_swiftuiApp: App {
     var body: some Scene {
         WindowGroup {
-            StartedView()
+//            StartedView()
+            Home()
         }
     }
 }
