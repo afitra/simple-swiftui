@@ -9,10 +9,20 @@ import SwiftUI
 
 @main
 struct simple_swiftuiApp: App {
+    @State private var isLogin: Bool = false
+
     var body: some Scene {
         WindowGroup {
+ 
 //            StartedView()
-            Home()
+//            Splash()
+            
+            if isLogin{
+                StartedView()
+            }else{
+                Splash()
+            }
+ 
         }
     }
 }
